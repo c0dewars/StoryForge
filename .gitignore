@@ -1,0 +1,8 @@
+# Private commercial skill contents must not be committed here
+SKILL.md
+references/
+templates/
+tests/
+*.zip
+.env
+.env.*
